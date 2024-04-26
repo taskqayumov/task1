@@ -43,7 +43,7 @@
     text-align: center;
     margin-top: -6px;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width: 265px) {
     * {
         padding: 3px;
     }
@@ -84,7 +84,7 @@
     font-size: 73px;
     text-align: center;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width: 265px) {
     .hell {
         width: 240px;
     }
@@ -132,7 +132,7 @@
     font-size: 25px;
     margin-left: 90px;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px)) {
     #q1 {
         width: auto;
         height: auto;
@@ -199,7 +199,7 @@
     font-size: 17px;
     font-family: Inter;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px) {
     .photo p {
         font-size: 16px;
     }
@@ -245,7 +245,7 @@
     margin-left: 90px;
     margin-top: 90px;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px){
     .work {
         display: list-item;
     }
@@ -320,7 +320,7 @@
     font-size: 55px;
 }   
 
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px) {
     .info {
         width: 230px;
         height: 1300px;
@@ -377,7 +377,7 @@
     box-shadow: rgb(0 0 0 / 20%) 20px 12px 28px 0px, rgb(0 0 0 / 10%) 20px 20px 34px 0px, rgb(255 255 255 / 5%) 0px 0px 0px 1px inset;
 }
 
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px){
     .inte {
         margin-left: -20px;
     }
@@ -442,7 +442,7 @@
     margin-left: 288px;
     display: flex;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width: 265px){
     .image {
         display: flex;
         width: 365px;
@@ -537,7 +537,7 @@
     width: 400px;
     height: 500px;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width:  265px) {
     .infome {
         width: 365px;
         display: unset;
@@ -628,7 +628,7 @@
     padding-left: 30px;
     margin-top: 100px;
 }
-@media only screen and (max-width: 281px) {
+@media only screen and (max-width: 265px) {
     .futer {
         width: 245px;
         height: 580px;
